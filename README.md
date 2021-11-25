@@ -1,4 +1,4 @@
-# clone-tiki
+# My project
 * Tiki
 * Tiki
 #### Nguyen Nhat Hao
