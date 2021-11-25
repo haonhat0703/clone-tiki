@@ -1,4 +1,4 @@
 # My project
-* Tiki
+* Tiki - no reponsive
 * Tiki
 #### Nguyen Nhat Hao
