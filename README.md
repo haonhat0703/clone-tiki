@@ -1,4 +1,4 @@
 # clone-tiki
-*́́ Tiki
+* Tiki
 * Tiki
 #### Nguyen Nhat Hao
